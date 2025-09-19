@@ -1,6 +1,15 @@
+
+https://github.com/user-attachments/assets/dd54042d-5d48-4548-88e7-701a63d597af
 # Calculadora Tkinter
 
 Este projeto é uma calculadora simples com interface gráfica desenvolvida em Python utilizando a biblioteca Tkinter.
+
+##VISUALIZAÇÃO
+
+
+Uploading Screen Recording 2025-09-19 at 00.55.36.mov…
+
+
 
 ## Funcionalidades
 
